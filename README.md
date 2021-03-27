@@ -1,11 +1,11 @@
 # PicoIndustrial
 Industrial Control Module Based on RPI PICO  
-----------
+----------  
 ![](/Docs/PicoIndustrial.png)  
+You can [buy it at here](https://item.taobao.com/item.htm?id=641338698393), for now im in small batch production. Also you can manufactory it by yourself.  
 There have 8 digital input, 8 relay output, 2 analog input, 2 analog output and 4 pico pin output.  
 Digital IO is DC 24v PNP/NPN compatible, Analog IO is 0-10v or 0-20mA selectable.  
 It was a simple plc or simple controller, Like some they called "arduino plc" controller but more powerfull.  
-~~The first 2 pcb is in pruduct process, More information was in construction, Please see here later.~~  
 Here is product images, Actually its first that one-shoot successful product for me:  
 ![](/Docs/image_0.jpg)![](/Docs/image_1.jpg)  
 
